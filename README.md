@@ -1,2 +1,2 @@
-# ElicLang
-A General-purpose Procedure-oriented Programming Language.
+# RuoLang
+A Simple Programming Language.
